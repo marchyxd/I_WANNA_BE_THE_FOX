@@ -5,6 +5,9 @@ Este proyecto es una práctica completa de sistemas de comunicación en red para
 🌐 **Link del juego (WebGL):**  
 👉 [Jugar en GitHub Pages](https://marchyxd.github.io/I_WANNA_BE_THE_FOX/)
 
+🌐 **Link del juego (ASSETS):**  
+👉 [DESCARGAR EL PROYECTO](https://marchyxd.github.io/I_WANNA_BE_THE_FOX/)
+
 ---
 
 ## 🧠 Objetivos del proyecto
