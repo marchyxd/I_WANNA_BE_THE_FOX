@@ -8,6 +8,8 @@ Este proyecto es una práctica completa de sistemas de comunicación en red para
 🌐 **Link del juego (ASSETS):**  
 👉 [DESCARGAR EL PROYECTO](https://marchyxd.github.io/I_WANNA_BE_THE_FOX/)
 
+🌐 **Link del archivo webSocket (Servidor/Cliente):**  
+👉 [DESCARGAR EL ARCHIVO](https://marchyxd.github.io/I_WANNA_BE_THE_FOX/)
 ---
 
 ## 🧠 Objetivos del proyecto
